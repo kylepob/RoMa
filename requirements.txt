@@ -1,14 +1,7 @@
-torch==2.5.1+cu124
-einops
-torchvision==0.20.1+cu124
-opencv-python
 kornia
 albumentations
-loguru
 tqdm
 matplotlib
 h5py
 wandb
-timm
 poselib
-fused-local-corr>=0.2.2
